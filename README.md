@@ -10,7 +10,7 @@ practice, and structural verification of sequences.
 ---
 
 ## 🔗 Try It Live
-> **[Open the 3-Position Sequence Generator](https://vikumnonis.github.io/3-position-sequence-generator/)**
+> **[Open the 3-Position Sequence Generator](https://v2nonis.github.io/3-Position-Sequence-Generator/))**
 > *No download, installation, or setup required — works directly in any modern web browser.*
 
 ---
