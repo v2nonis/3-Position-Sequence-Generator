@@ -36,7 +36,7 @@ dependencies, works fully offline once loaded.
 ---
 
 ## 🛠️ Usage & Workflow
-1. **Launch the App:** Open the [live link](https://vikumnonis.github.io/3-position-sequence-generator/) in Chrome, Firefox, Safari, or Edge.
+1. **Launch the App:** Open the [live link](https://v2nonis.github.io/3-Position-Sequence-Generator/) in Chrome, Firefox, Safari, or Edge.
 2. **Set Sequence Range:** Choose how many numbers are in play using the +/− stepper.
 3. **Choose a Mode:** `Straight` (exact 3-number order) or `Combination` (box 3+ numbers).
 4. **Mark Numbers:** Tap the number circles or type into the input box.
